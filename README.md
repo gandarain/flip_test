@@ -92,3 +92,6 @@ You can try some of the following options:
 - changing the JAVA_HOME environment variable.
 - changing `org.gradle.java.home` in `gradle.properties`.
 ```
+
+## Result
+![result](https://user-images.githubusercontent.com/27923352/161416095-e45ad032-c6a4-4e46-8cd8-79d3ba41c37f.gif)
