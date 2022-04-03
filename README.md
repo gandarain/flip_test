@@ -1,4 +1,4 @@
-# Flip Test - Software 
+# Flip - Software Engineer (Mobile - React Native)
 
 ## Generate a new project
 - `react-native init project_name --template react-native-template-typescript`
@@ -67,7 +67,7 @@ module.exports = {
 - Open project with xcode cd `ios/open project-name.xcworkspace`.
 - Remove icons, open `Build Phases`, remove icons from `Copy Bundle Resources`.
 
-## Setup CI/CD
+## Setup CI
 This is basic ci/cd, to run `lint and type check` when there is a pull request to `master`.
 - Create a new folder `.github/workflows`  file `ci.yml`.
 - Just copy paste the `ci.yml`.
